@@ -1,0 +1,13 @@
+[project]
+name = "pdf-text-replacer"
+version = "0.1.0"
+description = "A Python script that replaces text in PDF files based on CSV mappings while preserving formatting"
+requires-python = ">=3.10"
+dependencies = [
+    "PyPDF2>=3.0.1",
+    "PyMuPDF>=1.23.8",
+    "reportlab>=4.0.7",
+]
+
+[project.scripts]
+pdf-text-replacer = "pdf_text_replacer:main"

@@ -199,4 +199,4 @@ Feel free to submit issues, suggestions, or improvements. When reporting issues,
 - Python version
 - Operating system
 - Error messages and log files
-- Sample files (if possible)
+- Sample files (if possible)# pdf-text-replacer
